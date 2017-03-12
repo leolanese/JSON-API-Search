@@ -1,0 +1,22 @@
+{
+  "name": "jsonsearch",
+  "version": "1.0.0",
+  "description": "A simple JSON API Search to request moviedb website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leolanese/JSON-API-Search.git"
+  },
+  "author": "Leo Lanese",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leolanese/JSON-API-Search/issues"
+  },
+  "homepage": "https://github.com/leolanese/JSON-API-Search#readme",
+  "devDependencies": {
+    "jasmine-ajax": "^3.3.1"
+  }
+}
