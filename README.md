@@ -5,7 +5,7 @@ A simple REST JSON API Search, requesting to The Movie Database (TMDb) end-point
 </pre>
 
 ## Example running:
-<a href="http://jsfiddle.net/leolanese/qh4deaug/" target="_blank">http://jsfiddle.net</a><br>
+<a href="http://jsfiddle.net/leolanese/qh4deaug/" target="_blank">http://jsfiddle.net/leolanese/qh4deaug/</a><br>
 
 ### Tip:
 Remember this need to run under http, to avoid Mixing Content, further information:
